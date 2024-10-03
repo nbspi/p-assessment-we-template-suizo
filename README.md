@@ -20,8 +20,7 @@ Lou Geh manufacturing company produces products. The following product informati
    2. DFD
 4. Provide a ```README.md``` containing the setup guide.
 5. The application should be published in Github via forked repository and for final version of your prototype you will need to create a ```Pull request``` in Github .
-6. You will send the Github link to us thru our email devops@biotechfarms.com on or before ```September 18 2023```.
-7. Actual assessment interview will be conducted on ```September 19 2023 @ 2:00 PM```.
+6. You will send the Github link to us thru our email devops@biotechfarms.com on or before ```October 7 2024```.
 
     ### **Directory structure**
     ```
